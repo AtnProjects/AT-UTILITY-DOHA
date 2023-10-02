@@ -13,5 +13,4 @@ This versatile `.bat` script is your all-in-one tool for Motorola devices like t
 ⚙️ **Advanced Features:** Includes bootloader and system reboot options.
 
 Use this tool with caution, as some actions can impact your device. Always back up your data before making any modifications.
-[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
